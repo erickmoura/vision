@@ -1,0 +1,29 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "automatic image tagging",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickmoura/vision.git"
+  },
+  "author": "Erick de Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickmoura/vision/issues"
+  },
+  "homepage": "https://github.com/erickmoura/vision#readme"
+}
